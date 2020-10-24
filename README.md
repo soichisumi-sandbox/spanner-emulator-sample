@@ -1,2 +1,3 @@
 # spanner-emulator-sample
-Sample repository for
+
+A sample implementation of test of Go with GoogleCloudPlatform/cloud-spanner-emulator
